@@ -112,14 +112,6 @@ Good question, so I asked GPT-4, it said:
 
 Cool!
 
-### Will there be a Discord Community?
-
-Many thanks to [JSDu](https://github.com/JamesBonddu), who created a [Discord channel](https://discord.gg/UkfpFFmNd2) for my projects!!
-
-如果有热心观众对这个项目感兴趣并愿意帮忙建立一个中文社区，欢迎联系我，我会非常感激的！！
-
-**更新：** 热心观众（[JSDu](https://github.com/JamesBonddu)）出现啦！非常感谢！！！（猛戳[这里](https://discord.gg/UkfpFFmNd2)加入我们！）
-
 ### Why do you build this project?
 
 > Also check [Design Philosophy](https://carefree0910.me/carefree-drawboard-doc/docs/reference/design-philosophy).
